@@ -1,3 +1,3 @@
-# Img-to-emoji
+# Emoji-art
 
 <img src="asset/img/ScreenShot.png">
